@@ -1,2 +1,2 @@
 # hello-spring
-Spring Study Space
+inflearn Spring Boot Learning
